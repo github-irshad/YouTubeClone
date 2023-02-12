@@ -1,10 +1,10 @@
-
-p{
+p {
     font-family: Arial;
     margin-top: 0px;
     margin-bottom: 0px;
 }
-.video-title{
+
+.video-title {
     font-weight: bold;
     font-size: 18px;
     line-height: 24px;
@@ -12,18 +12,19 @@ p{
     margin-bottom: 5px;
 }
 
-.video-stats{
+.video-stats {
     font-size: 14px;
     color: #606060;
     margin-bottom: 20px;
 }
 
-.video-author{
+.video-author {
     color: #606060;
     font-size: 14px;
     margin-bottom: 20px;
 }
-.video-description{
+
+.video-description {
     color: #606060;
     font-size: 14px;
     width: 280px;
@@ -31,16 +32,18 @@ p{
     margin-bottom: 200px;
 }
 
-.apple-text{
+.apple-text {
     font-size: 14px;
     color: white;
     background-color: #e34140;
     padding: 18px 0;
     text-align: center;
 }
-.shop-now{
+
+.shop-now {
     cursor: pointer;
 }
-.shop-now:hover{
+
+.shop-now:hover {
     text-decoration: underline;
 }
